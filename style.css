@@ -1,0 +1,103 @@
+@charset "UTF-8";
+
+body {
+    background-color: #DFF9F7;
+}
+
+h1 {
+    font-family: Arial;
+    font-size: 25;
+    color: blue;
+    background-color:#7beaf8;
+    padding-left:10px;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18;
+    color: blueviolet;
+    text-decoration: underline;
+}
+
+table#biemdel {
+    border: 1px solid #afcca8;
+    border-spacing: 0px;
+    background-color: #e4ffd4;
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:13pt;
+}
+
+table#biemdel td {
+    border:1px solid #afcca8;
+    padding:0px 10px 0px 10px;
+}
+
+table#biemdel td#tdcoment{
+    border:none;
+}
+
+table#biemdel tr:hover {
+    border: 2px solid #f1ffe2;
+    background-color:#3e5954;
+    color:white;
+}
+
+table#formatacaocss1 {
+    border:1px solid #30bfe9;
+    border-spacing:0px;
+    background-color:#f0ffff;
+    font-family:Arial, Helvetica, sans-serif;
+    color:black;
+    font-size:13pt;
+}
+
+table#formatacaocss1 td {
+    border:1px solid #30bfe9;
+    padding:10px;
+}
+
+table#formatacaocss1 tr:hover {
+    background-color: #2c5362;
+    color:white;
+}
+
+table#formatacaocss2 {
+    border:1px solid #8fb7c8;
+    border-spacing:0px;
+    background-color:#e5e5e5;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:13pt;
+    color:black;
+}
+
+table#formatacaocss2 td {
+    border:1px solid #8fb7c8;
+    padding:10px;
+}
+
+table#formatacaocss2 tr.one:hover {
+    background-color: #a1b5b8 ;
+    color: white ;
+    border:3px;
+}
+
+table#formatacaocss2 tr.two:hover {
+    background-color: #526467 ;
+    color: white ;
+}
+
+table#formatacaocss2 tr.tree:hover {
+    background-color: #2a3c3f ;
+    color: white ;
+}
+
+table#formatacaocss2 tr.four:hover {
+    background-color: #a1b5b8 ;
+    color: white ;
+}
+
+table#formatacaocss2 tr.five:hover {
+    background-color: #0000B5 ;
+    color: white ;
+}
