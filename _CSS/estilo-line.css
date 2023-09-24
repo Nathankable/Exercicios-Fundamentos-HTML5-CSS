@@ -23,6 +23,10 @@ h3 {
     font-weight:560;
     text-align:center;
     text-decoration: underline;
+    background-color:rgba(187, 186, 214, 0.533);
+    border:rgba(119, 162, 248, 0.452);
+    box-shadow:3px 3px 3px solid #090580;
+    padding:10px 0px 10px 0px;
 }
 h4 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
